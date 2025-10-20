@@ -1,1 +1,7 @@
-
+torch
+transformers
+Pillow
+opencv-python
+numpy
+gradio
+streamlit
