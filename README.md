@@ -11,7 +11,7 @@ An image-prompt-generator
 
 ##  安装
 ```bash
-git clone https://github.com/yourname/image-prompt-generator.git
+git clone https://github.com/GRAY-XY/image-prompt-generator.git
 cd image-prompt-generator
 pip install -r requirements.txt
 ```
