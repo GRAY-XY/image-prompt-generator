@@ -14,6 +14,7 @@ An image-prompt-generator
 git clone https://github.com/yourname/image-prompt-generator.git
 cd image-prompt-generator
 pip install -r requirements.txt
+```
 
 ##  状态
 Still in progress!!!!
