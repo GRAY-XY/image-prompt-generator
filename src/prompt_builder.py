@@ -1,6 +1,6 @@
 import json
-from .analyzer import describe_image
-from .matcher import match_keywords
+from src.analyzer import describe_image
+from src.matcher import match_keywords
 
 def load_prompt_library(path="prompt_library.json"):
     with open(path, "r", encoding="utf-8") as f:
