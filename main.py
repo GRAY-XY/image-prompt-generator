@@ -21,7 +21,7 @@ def main():
 
         # 如果已有同名txt则跳过
         if os.path.exists(output_path):
-            print(f"⚠️ 跳过已存在文件：{output_path}")
+            print(f"跳过已存在文件：{output_path}")
             continue
 
         print(f"正在处理：{filename}")
@@ -37,10 +37,10 @@ def main():
                 f.write("负向提示词：\n")
                 f.write(neg + "\n")
 
-            print(f"✅ 已创建并保存：{output_path}")
+            print(f"已创建并保存：{output_path}")
 
         except Exception as e:
-            print(f"❌ 处理 {filename} 时出错：{e}")
+            print(f"处理 {filename} 时出错：{e}")
 
 if __name__ == "__main__":
     main()
