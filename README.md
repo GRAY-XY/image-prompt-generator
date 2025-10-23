@@ -7,7 +7,7 @@ An image-prompt-generator
 - 自动分析图片（BLIP 生成描述）
 - 使用 CLIP 语义匹配提示词库
 - 自动拼接正向 / 负向提示词
-- 支持命令行与 Web 界面
+- 仅支持命令行界面
 
 ##  安装
 ```bash
@@ -17,5 +17,4 @@ pip install -r requirements.txt
 ```
 
 ##  状态
-Still in progress!!!!
-还没搞完!!!!
+Still in progress!
