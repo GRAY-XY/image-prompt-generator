@@ -909,3 +909,295 @@
         "amateur photo"
     ]
 }
+{
+    "animal_positive": {
+        "animal_types": {
+            "mammals": [
+                "cat", "kitten", "dog", "puppy", "horse", "foal", "cow", "calf",
+                "elephant", "baby elephant", "lion", "lion cub", "tiger", "tiger cub",
+                "leopard", "cheetah", "wolf", "wolf pup", "fox", "red fox", "arctic fox",
+                "bear", "grizzly bear", "polar bear", "panda", "red panda", "koala",
+                "kangaroo", "joey", "deer", "fawn", "moose", "elk", "bison", "buffalo",
+                "rabbit", "bunny", "hare", "squirrel", "chipmunk", "raccoon", "skunk",
+                "otter", "beaver", "hedgehog", "porcupine", "sloth", "anteater",
+                "dolphin", "whale", "humpback whale", "orca", "shark", "seal", "sea lion",
+                "walrus", "manatee", "bat", "flying fox", "monkey", "chimpanzee", "gorilla",
+                "orangutan", "lemur", "gibbon", "zebra", "giraffe", "hippopotamus", "rhinoceros"
+            ],
+            "birds": [
+                "eagle", "bald eagle", "hawk", "falcon", "owl", "snowy owl", "parrot", "macaw",
+                "cockatoo", "lovebird", "canary", "finch", "sparrow", "robin", "blue jay",
+                "cardinal", "crow", "raven", "pigeon", "dove", "swan", "goose", "duck", "duckling",
+                "chicken", "rooster", "peacock", "peafowl", "flamingo", "penguin", "king penguin",
+                "ostrich", "emu", "kiwi", "hummingbird", "woodpecker", "kingfisher", "heron",
+                "stork", "crane", "pelican", "seagull", "albatross", "vulture", "turkey"
+            ],
+            "reptiles_amphibians": [
+                "snake", "python", "cobra", "rattlesnake", "lizard", "gecko", "chameleon",
+                "iguana", "komodo dragon", "turtle", "sea turtle", "tortoise", "galapagos tortoise",
+                "crocodile", "alligator", "caiman", "frog", "tree frog", "poison dart frog",
+                "toad", "salamander", "newt", "axolotl"
+            ],
+            "fish_aquatic": [
+                "goldfish", "koi fish", "betta fish", "angelfish", "clownfish", "tropical fish",
+                "pufferfish", "lionfish", "stingray", "manta ray", "jellyfish", "octopus",
+                "squid", "cuttlefish", "seahorse", "starfish", "sea urchin", "coral",
+                "anemone", "lobster", "crab", "shrimp", "prawn"
+            ],
+            "insects_arthropods": [
+                "butterfly", "monarch butterfly", "swallowtail", "moth", "luna moth",
+                "bee", "honeybee", "bumblebee", "wasp", "dragonfly", "damselfly",
+                "ladybug", "beetle", "stag beetle", "firefly", "grasshopper", "cricket",
+                "mantis", "praying mantis", "ant", "spider", "tarantula", "scorpion",
+                "centipede", "millipede", "caterpillar", "silkworm", "snail", "slug"
+            ],
+            "domestic_pets": [
+                "pet", "domestic animal", "house cat", "house dog", "pet bird", "pet fish",
+                "hamster", "gerbil", "guinea pig", "ferret", "chinchilla", "rabbit",
+                "turtle", "tortoise", "snake", "lizard", "hermit crab", "pet rat", "pet mouse"
+            ],
+            "wildlife": [
+                "wild animal", "wildlife", "jungle animal", "savanna animal", "forest animal",
+                "desert animal", "arctic animal", "marine animal", "nocturnal animal",
+                "endangered species", "protected animal", "majestic wildlife"
+            ]
+        },
+
+        "animal_characteristics": {
+            "fur_coat": [
+                "fluffy", "furry", "soft fur", "sleek coat", "shaggy fur", "smooth coat",
+                "spotted fur", "striped coat", "patterned fur", "multicolored fur",
+                "thick fur", "thin coat", "woolly", "velvety fur", "glossy coat"
+            ],
+            "feathers": [
+                "colorful feathers", "iridescent feathers", "fluffy feathers", "sleek feathers",
+                "molting feathers", "preening", "wing feathers", "tail feathers", "crest feathers"
+            ],
+            "scales_skin": [
+                "shiny scales", "iridescent scales", "rough skin", "smooth skin", "patterned scales",
+                "camouflage skin", "slimy skin", "dry scales", "overlapping scales"
+            ],
+            "colors": [
+                "golden fur", "silver coat", "black and white", "brown fur", "gray coat",
+                "red fur", "orange coat", "yellow feathers", "green scales", "blue feathers",
+                "purple wings", "pink skin", "vibrant colors", "natural colors", "camouflage colors"
+            ],
+            "body_parts": [
+                "sharp claws", "retractable claws", "paws", "hooves", "wings", "feathered wings",
+                "membranous wings", "tail", "bushy tail", "long tail", "short tail", "horns",
+                "antlers", "tusks", "trunk", "whiskers", "beak", "bill", "fins", "gills",
+                "shell", "carapace", "mandibles", "stinger", "proboscis"
+            ],
+            "eyes": [
+                "large eyes", "small eyes", "compound eyes", "pupils", "slit pupils",
+                "round pupils", "glowing eyes", "reflective eyes", "eye spots", "eyelashes"
+            ]
+        },
+
+        "animal_actions_behaviors": [
+            "running", "galloping", "trotting", "walking", "crawling", "slithering",
+            "flying", "soaring", "gliding", "hovering", "swimming", "diving", "jumping",
+            "leaping", "pouncing", "climbing", "perching", "roosting", "nesting",
+            "hunting", "stalking", "chasing", "playing", "fighting", "grazing",
+            "browsing", "foraging", "digging", "burrowing", "building nest",
+            "feeding", "drinking", "sleeping", "resting", "grooming", "bathing",
+            "preening", "molting", "migrating", "herding", "schooling", "flocking"
+        ],
+
+        "animal_expressions": [
+            "curious expression", "alert expression", "relaxed expression", "sleepy expression",
+            "playful expression", "aggressive expression", "friendly expression", "wild expression",
+            "majestic pose", "cute pose", "ferocious pose", "graceful pose", "powerful stance"
+        ],
+
+        "animal_environments": {
+            "natural_habitats": [
+                "in forest", "in jungle", "on savanna", "in grasslands", "in desert",
+                "in mountains", "in arctic", "in tundra", "in wetlands", "in marsh",
+                "in river", "in lake", "in ocean", "in coral reef", "in deep sea",
+                "on tree branch", "in burrow", "in nest", "in den", "in cave"
+            ],
+            "human_environments": [
+                "in home", "in garden", "in backyard", "in park", "on farm",
+                "in zoo", "in aquarium", "in wildlife sanctuary", "on street",
+                "in pet store", "in veterinary clinic"
+            ],
+            "seasons_weather": [
+                "in spring", "in summer", "in autumn", "in winter",
+                "in sunlight", "in rain", "in snow", "in mist", "at dawn", "at dusk",
+                "at night", "under moonlight", "in storm", "in clear weather"
+            ]
+        },
+
+        "animal_interactions": [
+            "with human", "with owner", "with children", "with other animals",
+            "mother with baby", "family group", "pack", "pride", "herd", "flock",
+            "school of fish", "colony", "playing together", "fighting", "mating",
+            "hunting together", "migrating together"
+        ],
+
+        "animal_photography": [
+            "wildlife photography", "animal portrait", "macro animal photography",
+            "action shot", "behavioral shot", "environmental portrait", "close-up",
+            "full body", "side view", "front view", "dynamic angle", "eye level",
+            "low angle", "high angle", "natural lighting", "studio lighting",
+            "freeze motion", "motion blur", "shallow depth of field", "sharp focus on eyes"
+        ]
+    },
+
+    "plant_positive": {
+        "plant_types": {
+            "flowers": [
+                "rose", "red rose", "white rose", "yellow rose", "pink rose", "tulip",
+                "sunflower", "daisy", "lily", "callalily", "orchid", "cattleya orchid",
+                "dendrobium orchid", "peony", "chrysanthemum", "carnation", "hydrangea",
+                "hibiscus", "lotus", "water lily", "iris", "lavender", "lilac",
+                "magnolia", "marigold", "poppy", "daffodil", "narcissus", "jasmine",
+                "gardenia", "camellia", "azalea", "rhododendron", "bougainvillea",
+                "zinnia", "cosmos", "pansy", "viola", "snapdragon", "geranium"
+            ],
+            "trees": [
+                "oak tree", "maple tree", "cherry tree", "sakura tree", "willow tree",
+                "birch tree", "pine tree", "spruce tree", "fir tree", "cedar tree",
+                "palm tree", "coconut palm", "date palm", "baobab tree", "sequoia tree",
+                "redwood tree", "banyan tree", "magnolia tree", "dogwood tree",
+                "jacaranda tree", "eucalyptus tree", "apple tree", "orange tree",
+                "lemon tree", "olive tree", "bonsai tree", "ancient tree", "old tree"
+            ],
+            "shrubs_bushes": [
+                "rose bush", "hydrangea bush", "azalea bush", "rhododendron bush",
+                "boxwood", "privet", "holly bush", "juniper bush", "lavender bush",
+                "rosemary bush", "butterfly bush", "forsythia", "lilac bush"
+            ],
+            "succulents_cacti": [
+                "cactus", "saguaro cactus", "barrel cactus", "prickly pear cactus",
+                "aloe vera", "agave", "echeveria", "sedum", "sempervivum",
+                "crassula", "haworthia", "kalanchoe", "succulent garden"
+            ],
+            "ferns_mosses": [
+                "fern", "boston fern", "maidenhair fern", "staghorn fern",
+                "tree fern", "moss", "spanish moss", "peat moss", "clubmoss",
+                "selaginella", "fern frond", "unfurling fern"
+            ],
+            "grasses_grains": [
+                "bamboo", "bamboo forest", "grass", "lawn grass", "wheat", "barley",
+                "oats", "rice", "corn", "maize", "sugarcane", "reed", "cat tails"
+            ],
+            "vegetables": [
+                "tomato plant", "potato plant", "carrot", "lettuce", "cabbage",
+                "broccoli", "cauliflower", "spinach", "kale", "pepper plant",
+                "eggplant", "cucumber", "pumpkin", "squash", "bean plant", "pea plant"
+            ],
+            "fungi": [
+                "mushroom", "fly agaric", "chanterelle", "morel", "truffle",
+                "oyster mushroom", "shiitake", "portobello", "fungus", "lichen",
+                "mushroom colony", "fungal growth"
+            ]
+        },
+
+        "plant_parts": {
+            "flowers_blooms": [
+                "blooming", "flowering", "in bloom", "full bloom", "budding",
+                "flower bud", "unfurling petals", "fallen petals", "petal texture",
+                "stamen", "pistil", "pollen", "nectar", "fragrant flowers"
+            ],
+            "leaves_foliage": [
+                "leaves", "foliage", "green leaves", "variegated leaves", "fall foliage",
+                "autumn leaves", "leaf texture", "veins", "serrated edges", "smooth edges",
+                "compound leaves", "simple leaves", "needles", "fronds", "leaf arrangement"
+            ],
+            "stems_branches": [
+                "stem", "branch", "twig", "trunk", "bark", "tree bark", "textured bark",
+                "smooth bark", "rough bark", "peeling bark", "thorns", "spines",
+                "tendrils", "vines", "climbing plant", "trailing plant"
+            ],
+            "roots_bulbs": [
+                "roots", "root system", "fibrous roots", "taproot", "bulb", "tuber",
+                "rhizome", "corm", "root vegetable", "exposed roots"
+            ],
+            "fruits_seeds": [
+                "fruit", "berries", "seed pod", "seeds", "nuts", "acorn", "pine cone",
+                "capsule", "samara", "helicopter seeds", "dandelion seeds", "puffball"
+            ]
+        },
+
+        "plant_characteristics": [
+            "lush", "verdant", "vibrant", "healthy plant", "diseased plant",
+            "wilting", "drought-stressed", "overwatered", "pruned", "trimmed",
+            "natural growth", "cultivated", "wild plant", "native plant",
+            "invasive plant", "rare plant", "endangered species"
+        ],
+
+        "plant_environments": {
+            "natural_habitats": [
+                "in forest", "in rainforest", "in jungle", "in woodland", "in meadow",
+                "in grassland", "in prairie", "in desert", "in alpine", "in tundra",
+                "in wetland", "in marsh", "in bog", "in riverbank", "in lakeside",
+                "in coastal area", "in dunes", "in cave", "on cliff", "on mountain"
+            ],
+            "cultivated_gardens": [
+                "in garden", "in botanical garden", "in flower bed", "in vegetable garden",
+                "in greenhouse", "in conservatory", "in orchard", "in vineyard",
+                "in park", "in public garden", "in Japanese garden", "in rock garden",
+                "in water garden", "in container", "in pot", "in hanging basket",
+                "in window box", "on balcony", "on terrace"
+            ],
+            "indoor_settings": [
+                "indoor plant", "houseplant", "in living room", "in bedroom",
+                "in office", "in bathroom", "in kitchen", "on windowsill",
+                "on shelf", "on desk", "in atrium", "in sunroom"
+            ],
+            "seasons_weather": [
+                "spring growth", "summer foliage", "autumn colors", "winter dormancy",
+                "in sunlight", "in shade", "in rain", "in snow", "in frost",
+                "in mist", "in morning dew", "after rainfall", "in sunlight beam",
+                "golden hour", "blue hour", "overcast day", "sunny day"
+            ]
+        },
+
+        "plant_arrangements": [
+            "single plant", "plant group", "cluster", "colony", "grove", "copse",
+            "thicket", "hedge", "border", "mass planting", "mixed planting",
+            "companion planting", "vertical garden", "living wall", "topiary",
+            "espalier", "bonsai arrangement", "ikebana", "flower arrangement",
+            "bouquet", "wreath", "garland"
+        ],
+
+        "plant_photography": [
+            "botanical photography", "macro photography", "plant portrait",
+            "close-up shot", "extreme close-up", "full plant shot",
+            "environmental shot", "growth sequence", "time-lapse",
+            "top-down view", "eye-level view", "low angle", "high angle",
+            "backlit", "side-lit", "soft lighting", "dramatic lighting",
+            "natural lighting", "studio lighting", "focus stacking",
+            "shallow depth of field", "sharp focus", "texture detail"
+        ],
+
+        "plant_stages": [
+            "seed", "germination", "seedling", "sapling", "mature plant",
+            "flowering stage", "fruiting stage", "senescence", "dormancy",
+            "annual cycle", "perennial growth", "life cycle"
+        ]
+    },
+
+    "animal_negative": [
+        "stuffed animal", "toy animal", "plush toy", "cartoon animal",
+        "anthropomorphic", "human-like animal", "mutated animal",
+        "deformed animal", "sick animal", "injured animal",
+        "poorly drawn animal", "bad proportions", "extra limbs",
+        "missing limbs", "unnatural colors", "plastic-looking",
+        "unrealistic fur", "unrealistic feathers", "blurry animal",
+        "out of focus", "poor anatomy", "wrong scale",
+        "unnatural pose", "stiff pose", "dead animal"
+    ],
+
+    "plant_negative": [
+        "plastic plant", "fake plant", "artificial flowers",
+        "cartoon plant", "poorly drawn plant", "unrealistic colors",
+        "wrong season", "dead plant", "wilted", "dried out",
+        "overgrown", "messy", "untidy", "weedy", "invasive species",
+        "blurry", "out of focus", "bad composition",
+        "unnatural lighting", "harsh shadows", "burned out",
+        "underexposed", "oversaturated", "desaturated"
+    ]
+}
