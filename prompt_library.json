@@ -343,6 +343,142 @@
             "belt"
         ],
 
+        "animals_plants": {
+            "animals": {
+                "mammals": [
+                    "cat",
+                    "dog",
+                    "horse",
+                    "lion",
+                    "tiger",
+                    "wolf",
+                    "bear",
+                    "elephant",
+                    "rabbit",
+                    "fox",
+                    "deer",
+                    "panda"
+                ],
+                "birds": [
+                    "bird",
+                    "owl",
+                    "eagle",
+                    "parrot",
+                    "crow",
+                    "sparrow",
+                    "peacock",
+                    "swan"
+                ],
+                "marine_life": [
+                    "fish",
+                    "dolphin",
+                    "whale",
+                    "seal",
+                    "shark",
+                    "sea turtle",
+                    "octopus",
+                    "jellyfish"
+                ],
+                "reptiles_amphibians": [
+                    "snake",
+                    "lizard",
+                    "frog",
+                    "turtle",
+                    "chameleon"
+                ],
+                "insects": [
+                    "butterfly",
+                    "bee",
+                    "dragonfly",
+                    "ladybug",
+                    "firefly"
+                ],
+                "fantasy_animals": [
+                    "dragon",
+                    "phoenix",
+                    "griffin",
+                    "unicorn",
+                    "mythical beast"
+                ]
+            },
+            
+            "animal_actions": [
+                "running",
+                "jumping",
+                "flying",
+                "soaring",
+                "perching",
+                "resting",
+                "sleeping",
+                "playing",
+                "hunting",
+                "swimming",
+                "diving",
+                "looking at viewer",
+                "grooming",
+                "howling",
+                "roaring",
+                "eating",
+                "feeding",
+                "cuddling",
+                "nesting"
+            ],
+            
+            "plants": {
+                "trees": [
+                    "oak tree",
+                    "pine tree",
+                    "cherry blossom tree",
+                    "palm tree",
+                    "willow tree",
+                    "maple tree"
+                ],
+                "flowers": [
+                    "rose",
+                    "sunflower",
+                    "tulip",
+                    "lily",
+                    "daisy",
+                    "orchid",
+                    "lavender",
+                    "lotus",
+                    "cherry blossom"
+                ],
+                "grass_bushes": [
+                    "grass field",
+                    "bushes",
+                    "ferns",
+                    "wildflowers",
+                    "vines"
+                ],
+                "water_plants": [
+                    "water lilies",
+                    "reeds",
+                    "seaweed",
+                    "algae"
+                ],
+                "trees_seasonal": {
+                    "spring": ["blooming flowers", "fresh green leaves"],
+                    "summer": ["lush foliage", "vibrant blossoms"],
+                    "autumn": ["falling leaves", "golden forest"],
+                    "winter": ["bare branches", "snow-covered trees"]
+                }
+            },
+            
+            "plant_actions": [
+                "blooming",
+                "swaying in the wind",
+                "glowing softly",
+                "falling petals",
+                "sprouting",
+                "spreading vines",
+                "floating on water",
+                "covered in dew",
+                "growing",
+                "rustling leaves"
+            ]
+        },
+
         "environments": {
             "indoor": [
                 "indoors",
