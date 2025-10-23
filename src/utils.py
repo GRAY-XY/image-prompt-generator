@@ -1,9 +1,3 @@
-"""
-utils.py
-通用工具函数模块
-Author: Zilin Wang
-Date: 2025-10-20
-"""
 
 import os
 import json
