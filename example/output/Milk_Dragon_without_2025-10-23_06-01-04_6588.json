@@ -1,0 +1,7 @@
+{
+  "image": "/content/input/Milk_Dragon_without.png",
+  "caption": "a young man with his mouth open",
+  "positive_prompt": "(masterpiece:1.2), (best quality:1.2), (ultra-detailed:1.2), (highres:1.2), (extremely detailed:1.2), (sharp focus:1.2), (beautiful composition:1.2), (perfect perspective:1.2), (8k wallpaper:1.2), (original:1.2), (young child:1.4), (portrait:1.4), (portrait:1.4), (handsome boy:1.4), (adult male:1.4), (cute face:1.4), (close-up portrait:1.4), (expressive face:1.4), (mature man:1.4), (half-body portrait:1.4), (child:1.4), (1boy:1.4), (young age:1.4), (close-up:1.4), (close-up:1.4)",
+  "negative_prompt": "(worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad proportions, mutated hands, extra limbs, missing fingers, poorly drawn hands, deformed, disfigured, mutilated, morbid, amputee, mutation, blurry, out of focus, out of frame, cropped, poorly framed, low contrast, overexposed, underexposed, ugly, duplicate, noisy, grainy, monochrome, grayscale",
+  "time": "2025-10-23_06-01-04"
+}
