@@ -1,4 +1,5 @@
 import os
+import shutil
 from src.prompt_builder import generate_prompts
 from src.utils import ensure_dir, get_timestamp, random_filename, save_json
 
@@ -19,10 +20,10 @@ def main():
 
         img_path = os.path.join(input_dir, filename)
         name, _ = os.path.splitext(filename)
-        output_path = os.path.join(
+        folder_path = ensure_dir(os.path.join(
             output_dir,
-            random_filename(name, ".json")
-        )
+            name
+        ))
 
         print(f"正在处理：{filename}")
 
@@ -35,8 +36,13 @@ def main():
                 "negative_prompt": neg,
                 "time": get_timestamp()
             }
+            output_path = os.path.join(
+                folder_path,
+                random_filename(name, ".json")
+            )
             save_json(result, output_path)
-            print(f"✅ 已保存：{output_path}\n")
+            shutil.copy(img_path, os.path.join(folder_path, filename))
+            print(f"✅ 已保存：{folder_path}\n")
 
         except Exception as e:
             print(f"❌ 处理 {filename} 时出错：{e}\n")
